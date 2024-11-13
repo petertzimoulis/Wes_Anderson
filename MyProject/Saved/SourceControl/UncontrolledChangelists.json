@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WesAnderson/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ppt24/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
