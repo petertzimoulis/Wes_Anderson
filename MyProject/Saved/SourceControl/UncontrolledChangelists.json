@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Saniya/Desktop/VRIM assignment/Project2_teamwork/Git/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Saniya/Desktop/VRIM assignment/Project2_teamwork/Git/MyProject/Content/Assets/Lobby/teak-seamless.uasset",
+				"C:/Users/Saniya/Desktop/VRIM assignment/Project2_teamwork/Git/MyProject/Content/Assets/Lobby/wood_desk.uasset",
 				"D:/WesAnderson/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/ppt24/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap"
 			]
